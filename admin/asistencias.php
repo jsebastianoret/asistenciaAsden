@@ -1,5 +1,3 @@
-
-text/x-generic asistencias.php ( PHP script, UTF-8 Unicode text )
 <?php include 'includes/session.php' ?>
 <?php include 'includes/header.php' ?>
 
