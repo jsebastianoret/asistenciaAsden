@@ -1,5 +1,3 @@
-
-text/x-generic attendance.php ( PHP script, UTF-8 Unicode text, with CRLF line terminators )
 <?php 
 	date_default_timezone_set('America/Lima');
 	include 'admin/function_count_justified_and_unjustified_absences.php';
